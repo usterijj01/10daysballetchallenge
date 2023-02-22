@@ -12,18 +12,10 @@ Throughout the warm-up, the dancer will be encouraged to focus on proper alignme
 
 In summary, warming up in classical ballet is an essential part of any dancer's routine. It helps to prepare the body for the physical demands of ballet, prevent injury, and improve technique and artistry.
 
+
+
 ## **Exercise**
 
 ```bash
 demi , 3 batman 3 jete
 ```
-
-
-
-## **Music**
-
-Music
-
-## **Video**
-
-Video

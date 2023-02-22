@@ -21,14 +21,7 @@ The goal of port de bras at the barre is to develop grace, fluidity, and control
 demi , 3 batman 3 jete
 ```
 
-## **Music**
 
-Music
+Let's follow along and watch how great ballet is:
 
-## **Video**
-
-Video
-
-Let's follow along and watch how [Ken Jee](https://www.youtube.com/c/KenJee1) builds a Streamlit app in this video:
-
-[![Data Science Portfolio Project from Scratch](https://img.youtube.com/vi/Yk-unX4KnV4/0.jpg)](<https://www.youtube.com/watch?v=Yk-unX4KnV4>)]
+## ***Swan Lake*** (<https://youtu.be/9rJoB7y6Ncs>)

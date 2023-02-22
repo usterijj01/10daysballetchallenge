@@ -12,15 +12,3 @@ Overall, adagio exercises at the barre are an important part of classical ballet
 ```bash
 demi , 3 batman 3 jete
 ```
-
-## **Music**
-
-Music
-
-## **Video**
-
-Video
-
-Let's follow along and watch how [Ken Jee](https://www.youtube.com/c/KenJee1) builds a Streamlit app in this video:
-
-[![Data Science Portfolio Project from Scratch](https://img.youtube.com/vi/Yk-unX4KnV4/0.jpg)](<https://www.youtube.com/watch?v=Yk-unX4KnV4>)]

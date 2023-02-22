@@ -13,15 +13,3 @@ Battement jeté can be performed in a variety of directions, including to the fr
 ```bash
 demi , 3 batman 3 jete
 ```
-
-## **Music**
-
-
-
-Music
-
-## **Video**
-
-Let's follow along and watch how [Ken Jee](https://www.youtube.com/c/KenJee1) improve the exercise:
-
-[![Data Science Portfolio Project from Scratch](https://img.youtube.com/vi/Yk-unX4KnV4/0.jpg)](<https://www.youtube.com/watch?v=Yk-unX4KnV4>)]

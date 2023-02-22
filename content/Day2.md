@@ -21,13 +21,3 @@ Demi pliés can also be performed in different positions, such as second positio
 ```bash
 demi , 3 batman 3 jete
 ```
-
-
-
-## **Music**
-
-Music
-
-## **Video**
-
-Video
