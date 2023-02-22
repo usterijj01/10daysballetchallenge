@@ -6,6 +6,14 @@ import urllib.request
 from PIL import Image
 import glob
 
+
+st.set_page_config(
+    page_title = "10 10DaysOfBalletChallenge",
+    page_icon = ":dancers:",
+    initial_sidebar_state="expanded",
+)
+
+
 def update_params():
     st.experimental_set_query_params(challenge=st.session_state.day)
 
