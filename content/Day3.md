@@ -8,7 +8,7 @@ Battement tendu is one of the fundamental movements in ballet training, and it h
 
 
 
-## **Exercise**
+## **Exercice**
 
 ```bash
 demi , 3 batman 3 jete

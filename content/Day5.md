@@ -11,7 +11,7 @@ Rond de jambe is often used as a warm-up exercise in ballet class and is also in
 
 
 
-## **Exercise**
+## **Exercice**
 
 ```bash
 demi , 3 batman 3 jete

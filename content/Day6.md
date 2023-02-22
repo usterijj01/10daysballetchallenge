@@ -9,7 +9,7 @@ Battement fondu can be used as a preparatory movement for other steps, such as p
 
 
 
-## **Exercise**
+## **Exercice**
 
 ```bash
 demi , 3 batman 3 jete

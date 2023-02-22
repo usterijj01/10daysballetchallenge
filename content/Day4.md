@@ -8,7 +8,7 @@ Battement jeté can be performed in a variety of directions, including to the fr
 
 
 
-## **Exercise**
+## **Exercice**
 
 ```bash
 demi , 3 batman 3 jete

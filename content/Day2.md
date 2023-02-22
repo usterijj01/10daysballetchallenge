@@ -16,7 +16,7 @@ Demi pliés can also be performed in different positions, such as second positio
 
 
 
-## **Exercise**
+## **Exercice**
 
 ```bash
 demi , 3 batman 3 jete

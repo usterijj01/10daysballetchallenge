@@ -6,7 +6,7 @@ To execute a battement frappé, the dancer starts in a closed position with the 
 
 Battement frappé is often used as a preparatory exercise for other more complex movements, such as jumps and turns, and it helps to develop the dancer's speed, control, and coordination. It is commonly practiced at the barre during warm-up exercises, and it can be performed with or without music.
 
-## **Exercise**
+## **Exercie**
 
 ```bash
 demi , 3 batman 3 jete

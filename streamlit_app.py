@@ -47,15 +47,33 @@ with st.expander("About the #10DaysOfBalletChallenge"):
 # Sidebar
 st.sidebar.header('About')
 st.sidebar.markdown('''
-Classical ballet is a form of dance that originated in the courts of Renaissance Italy and was later developed further in France and Russia. It is a highly stylized and technical form of dance that often tells a story through movement, music, and stage design.
+Welcome to our 10-Days Ballet Challenge! Over the next 10 days, we'll be guiding you through a series of ballet exercises and movements designed to improve your technique, build strength and flexibility, and most importantly, have fun!
 
-Classical ballet is characterized by a set of specific techniques and movements, such as pointe work (dancing on the tips of the toes), turns, leaps, and graceful arm movements. The choreography in classical ballet is typically designed to showcase the dancers' technical skills and their ability to convey emotions and tell a story through movement.
+Each day of the challenge, we'll be focusing on different aspects of ballet, such as stretching, footwork, or partnering. We'll provide clear instructions and demonstrations for each exercise, as well as tips and modifications for participants of all levels.
 
-Famous classical ballets include "Swan Lake," "The Nutcracker," "Giselle," and "The Sleeping Beauty." Classical ballet is still widely performed today and is considered an important part of the history of dance.
+To participate in the challenge, all you need to do is follow our Instagram account and use the challenge hashtag when posting your progress. We encourage you to share your experience and progress with your followers, friends, and family.
 
+We'll be offering prizes for those who complete the challenge or share their progress throughout the challenge. The prizes could include a free ballet class, a ballet-related item, or a discount on our company's products or services.
 
+We've also invited popular ballet dancers and fitness influencers to participate in the challenge and share their experience with their followers.
+
+We're excited to have you join us on this journey!
+
+Let's get started!
+
+*Available only for Android and Desktop.
+
+#10DayBalletChallenge
+#BalletFitness
+#StrongFoundation
 ''')
-
+st.sidebar.header('Who we are')
+st.sidebar.image(Image.open('screenshot.jpg'))
+st.sidebar.markdown('Exercice master')
+st.sidebar.image(Image.open('screenshot.jpg'))
+st.sidebar.markdown('Developer')
+st.sidebar.image(Image.open('screenshot.jpg'))
+st.sidebar.markdown('Model/Artist')
 
 #audio_file = open('content/audiog/01-faixa-1.ogg','rb') #enter the filename with filepath
 

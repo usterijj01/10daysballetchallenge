@@ -7,7 +7,7 @@ In an adagio exercise at the barre, dancers typically begin in first or fifth po
 One of the key goals of adagio exercises at the barre is to develop strength and control in the supporting leg, which is critical for maintaining balance and stability in more advanced ballet movements. Dancers may also focus on improving flexibility in the working leg, stretching and lengthening the muscles to improve range of motion and extension.
 
 Overall, adagio exercises at the barre are an important part of classical ballet training, helping dancers to build the strength, control, and grace they need to perform more complex movements on stage.
-## **Exercise**
+## **Exercice**
 
 ```bash
 demi , 3 batman 3 jete
