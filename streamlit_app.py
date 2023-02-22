@@ -56,6 +56,16 @@ Famous classical ballets include "Swan Lake," "The Nutcracker," "Giselle," and "
 
 ''')
 
+
+
+#audio_file = open('content/audiog/01-faixa-1.ogg','rb') #enter the filename with filepath
+
+#audio_bytes = audio_file.read() #reading the file
+
+#st.audio(audio_bytes, format='audio/ogg') #displaying the audio
+
+
+
 # Display content
 for i in days_list:
     if selected_day == i:
@@ -63,10 +73,10 @@ for i in days_list:
         j = i.replace(' ', '')
         with open(f'content/{j}.md', 'r') as f:
             st.markdown(f.read())
-        #if os.path.isfile(f'content/figures/{j}.csv') == True:
-        #    st.markdown('---')
-        #    st.markdown('### Figures')
-        #    df = pd.read_csv(f'content/figures/{j}.csv', engine='python')
-        #    for i in range(len(df)):
-        #        st.image(f'content/images/{df.img[i]}')
-        #        st.info(f'{df.figure[i]}: {df.caption[i]}')
+        if os.path.isfile(f'content/figures/{j}.csv') == True:
+            st.markdown('---')
+            st.markdown('### Figures')
+            df = pd.read_csv(f'content/figures/{j}.csv', engine='python')
+            for i in range(len(df)):
+                st.audio(f'content/audiog/{df.audio[i]}')
+                st.info(f'{df.figure[i]}: {df.caption[i]}')
