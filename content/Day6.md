@@ -9,7 +9,7 @@ Battement fondu can be used as a preparatory movement for other steps, such as p
 
 
 
-## **Exercice**
+## **Exercise**
 
 The routine starts with a battment fondue at the front, followed by a double battment fondu to the side. This is then repeated to the back to front side.
 

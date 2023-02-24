@@ -11,7 +11,7 @@ Overall, adagio exercises at the barre are an important part of classical ballet
 
 
 
-## **Exercice**
+## **Exercise**
 
 The text describes a series of grand battement movements in different directions, which involve lifting the leg high in the air with a straight knee.
 

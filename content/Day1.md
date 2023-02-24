@@ -14,7 +14,7 @@ In summary, warming up in classical ballet is an essential part of any dancer's 
 
 
 
-## **Exercice**
+## **Exercise**
 
 The terms used are specific to dance and may not be familiar to those who are not trained in dance.
 

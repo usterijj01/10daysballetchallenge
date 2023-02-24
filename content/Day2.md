@@ -16,7 +16,7 @@ Demi pliés can also be performed in different positions, such as second positio
 
 
 
-## **Exercice**
+## **Exercise**
 
 Here's a breakdown of the sequence:
 

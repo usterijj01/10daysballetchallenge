@@ -11,7 +11,7 @@ Rond de jambe is often used as a warm-up exercise in ballet class and is also in
 
 
 
-## **Exercice**
+## **Exercise**
 
 The routine starts with two rondejaps, one with plie and one without plie, repeated three times. This is followed by three ronds without fast plie.
 

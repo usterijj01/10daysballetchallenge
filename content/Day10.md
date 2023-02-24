@@ -16,7 +16,7 @@ Fifth position: Both arms are extended overhead, with the palms facing each othe
 
 The goal of port de bras at the barre is to develop grace, fluidity, and control in the arm movements, which can then be incorporated into more complex movements and choreography in the center of the studio or on stage. It also helps to warm up the upper body and prepare the dancer for the more demanding movements that follow during a ballet class.
 
-## **Exercice**
+## **Exercise**
 
 
 

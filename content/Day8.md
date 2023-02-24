@@ -11,7 +11,7 @@ Overall, adagio exercises at the barre are an important part of classical ballet
 
 
 
-## **Exercice**
+## **Exercise**
 
 The sequence starts with a developpé to the front at a 90-degree angle, followed by a balançoire and an attitude pose balance. Next, the dancer transitions to a passe position and performs a portdebras.
 

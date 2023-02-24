@@ -8,7 +8,7 @@ Battement jeté can be performed in a variety of directions, including to the fr
 
 
 
-## **Exercice**
+## **Exercise**
 
 Here's a breakdown of the sequence:
 
