@@ -11,6 +11,10 @@ Battement fondu can be used as a preparatory movement for other steps, such as p
 
 ## **Exercice**
 
-```bash
-demi , 3 batman 3 jete
-```
+The routine starts with a battment fondue at the front, followed by a double battment fondu to the side. This is then repeated to the back to front side.
+
+The routine concludes with a fondu battment at the front, followed by a rond to the back and ending on the left leg passe.
+
+The entire sequence is then repeated andedane.
+
+Overall, this text describes a series of intermediate-level dance movements that require a good understanding of dance technique and skill to perform properly.

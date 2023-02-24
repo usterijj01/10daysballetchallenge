@@ -16,6 +16,14 @@ In summary, warming up in classical ballet is an essential part of any dancer's 
 
 ## **Exercice**
 
-```bash
-demi , 3 batman 3 jete
-```
+The terms used are specific to dance and may not be familiar to those who are not trained in dance.
+
+The routine starts with three battmant tendus with the right foot, followed by a flex on the third one. This is repeated to the side, then with the left leg, and then everything walks. The "e" count refers to starting a little before the actual count to speed up the pace.
+
+Next, the routine involves a battmant tendue in each direction, with a finish of battmant tendu to the side with purlepie plie in second, pass, fifth position, and a battmant tendue to return to first position. This is repeated with the left leg.
+
+The routine then includes demi plies, without plies, and a third grand plie with balance. This is followed by swing and cudepie leg lures on both the right and left side.
+
+Finally, the routine includes pordebras on the right and left side, with two each, followed by a 360-degree pordebra starting on the right and then the left.
+
+Overall, the text describes a complex and detailed dance routine that requires a certain level of dance training to understand and perform correctly.

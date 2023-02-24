@@ -10,6 +10,16 @@ Battement tendu is one of the fundamental movements in ballet training, and it h
 
 ## **Exercice**
 
-```bash
-demi , 3 batman 3 jete
-```
+Here's a breakdown of the sequence:
+
+The sequence begins with two battment tendu movements with the right leg forward, followed by two battment tendu movements with the left leg back.
+
+Next, there are two battment tendu movements with a purlipie (unclear what this term means) to the side.
+
+Then, there are two battment tendu movements forward with the right leg, followed by two with the left leg behind, similar to the beginning of the sequence.
+
+Finally, the sequence ends with four battment tendus next to first position, followed by a demi plie and back pordebra.
+
+The entire sequence is repeated again, with the term "andedane" likely indicating to repeat everything in the same order as before.
+
+Overall, the text describes a relatively simple ballet warm-up sequence that involves various battment tendu movements, both forward and back, with some movements to the side and ending with a demi plie and poordebra attract. Understanding the full sequence would likely require more knowledge of ballet terminology and context.

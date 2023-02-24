@@ -10,6 +10,14 @@ Battement jeté can be performed in a variety of directions, including to the fr
 
 ## **Exercice**
 
-```bash
-demi , 3 batman 3 jete
-```
+Here's a breakdown of the sequence:
+
+The sequence begins with two battment jete movements with the right leg in front, followed by three balensoirs (unclear what this term means) and a final point in the air behind the leg.
+
+Next, there are two battment tendue jete movements with the right leg, followed by three balensoirs and a point in the air with the leg in front.
+
+The sequence then includes two front-to-side pikes (unclear what this term means), followed by seven quick jets through the first position.
+
+Finally, the text indicates that the entire sequence is to be repeated again, with the term "andedane" likely indicating to repeat everything in the same order as before.
+
+Overall, the text describes a relatively complex ballet warm-up sequence that involves various battment jete and tendue movements, along with balensoirs, pikes, and quick jets. Understanding the full sequence would likely require more knowledge of ballet terminology and context.

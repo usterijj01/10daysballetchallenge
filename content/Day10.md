@@ -18,9 +18,16 @@ The goal of port de bras at the barre is to develop grace, fluidity, and control
 
 ## **Exercice**
 
-```bash
-demi , 3 batman 3 jete
-```
+
+
+The text describes a dance sequence that includes various movements such as double arms to the right and left, grand poanshe with the right and left leg, reliefs with a plie and without a plie, and battment tendu.
+
+The sequence begins with the double arm movement to the right and left, followed by grand poanshe with the right and left leg. Then, the rhythm changes and there are 4 releves with a plie and without a plie, as well as movements on one foot with another on the cudepe.
+
+Afterwards, there are several sets of battment tendu movements, with 7 on one side, then 7 on the other, followed by 4 on one side, 4 on the other, and 2 on each side before finishing with 4 on one side.
+
+The sequence ends with an end portdebra and a bonus move that is not described in the text.
+
 
 
 Let's follow along and watch how great ballet is:

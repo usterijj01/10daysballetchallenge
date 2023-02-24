@@ -13,6 +13,10 @@ Rond de jambe is often used as a warm-up exercise in ballet class and is also in
 
 ## **Exercice**
 
-```bash
-demi , 3 batman 3 jete
-```
+The routine starts with two rondejaps, one with plie and one without plie, repeated three times. This is followed by three ronds without fast plie.
+
+Next, the routine involves releve fifth cudepie and stretching the leg in front, followed by rond to the side and three grand rondejamps starting from cudepie. This is repeated andedane.
+
+The routine continues with a pordebra in relief at the front, behind, and two on each side. Then, there is a developpe and opening the foot in relief in front 90 degrees, followed by rond until attracting, repeated andedane. Finally, the routine ends with balensoir attracts and balance in pose attitude.
+
+The terms used in the routine are specific to dance and may not be familiar to those who are not trained in dance.

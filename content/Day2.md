@@ -18,6 +18,14 @@ Demi pliés can also be performed in different positions, such as second positio
 
 ## **Exercice**
 
-```bash
-demi , 3 batman 3 jete
-```
+Here's a breakdown of the sequence:
+
+The sequence begins with two demi-plies (a half-bend of the knees) and one grand plie (a full bend of the knees) for the first second. It's unclear what "first second" refers to, but it may indicate a specific position or direction.
+
+Next, there is a fourth grand plie, which is followed by a ronde de jambe (a circular movement of the leg) and a grand plie in fourth position (with one foot in front of the other).
+
+Then, there is a grand plie in fifth position (with feet together), followed by another grand plie in fifth position, but only on one side ("andedane"). It's unclear what "andedane" means, but it could refer to a specific direction or placement of the foot.
+
+The sequence concludes with a relevant balance, which likely means a balanced position held for a certain amount of time.
+
+Overall, the text describes a short ballet sequence that includes a variety of movements, including demi-plies, grand plies, and ronde de jambes. It's difficult to understand the sequence fully without more context or knowledge of ballet terminology, but it appears to be a warm-up or exercise for dancers.
