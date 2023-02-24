@@ -65,9 +65,14 @@ Let's get started!
 *Available only for Android and Desktop.
 
 #10DayBalletChallenge
-#BalletFitness
-#StrongFoundation
+@10DayBalletChallenge
 ''')
+
+
+video_file = open('video1.mp4', 'rb')
+video_bytes = video_file.read()
+
+st.sidebar.video(video_bytes)
 
 
 
