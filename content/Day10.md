@@ -32,4 +32,4 @@ The sequence ends with an end portdebra and a bonus move that is not described i
 
 Let's follow along and watch how great ballet is:
 
-## ***Professor video*** (<https://youtu.be/9rJoB7y6Ncs>)
+## ***Model/Artist video*** (<https://youtu.be/9rJoB7y6Ncs>)
