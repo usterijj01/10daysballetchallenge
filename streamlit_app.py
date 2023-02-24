@@ -8,7 +8,7 @@ import glob
 
 
 st.set_page_config(
-    page_title = "10DaysOfBalletChallenge",
+    page_title = "10DaysBalletChallenge",
     page_icon = ":dancers:",
     initial_sidebar_state="expanded",
 )
@@ -22,7 +22,7 @@ md_files = sorted([int(x.strip('Day').strip('.md')) for x in glob.glob1('content
 # Logo and Navigation
 col1, col2, col3 = st.columns((1,4,1))
 with col2:
-    st.image(Image.open('screenshot.jpg'))
+    st.image(Image.open('DALLE.png'))
 
 st.markdown('# 10 Days of ballet challenge')
 
@@ -93,6 +93,18 @@ The individual has also worked in the children's theater Natalia Sats, suggestin
 Furthermore, the individual has participated in many competitions in classical ballet, indicating that they have sought to further their skills and gain recognition in the dance world. This suggests that they are ambitious and dedicated to their craft, and that they have likely had the opportunity to perform in a variety of contexts and settings.
 Overall, this biography suggests that the individual is a skilled and accomplished dancer with a strong foundation in classical ballet. They have experience working with children and have sought to improve their skills through competition, indicating that they are dedicated and passionate about their work.
 ''')
+
+
+# Define the HTML code for the Buy Me a Coffee button
+buy_me_coffee = """
+<a href="https://www.buymeacoffee.com/ustyuzhaniX" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px; width: 150px;" >
+</a>
+"""
+
+# Display the Buy Me a Coffee button using the HTML component
+st.sidebar.markdown(buy_me_coffee, unsafe_allow_html=True)
+
 
 
 
