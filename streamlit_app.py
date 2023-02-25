@@ -13,6 +13,18 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+def enable_indexability():
+    st.write("<meta name='robots' content='index,follow'>", unsafe_allow_html=True)
+    st.write("<meta name='googlebot' content='index,follow'>", unsafe_allow_html=True)
+
+if __name__ == '__main__':
+    enable_indexability()
+    # Add the rest of your Streamlit app code below
+
+
+
+
+
 
 def update_params():
     st.experimental_set_query_params(challenge=st.session_state.day)
