@@ -21,7 +21,7 @@ if __name__ == '__main__':
     enable_indexability()
     # Add the rest of your Streamlit app code below
 
-st.markdown('<h1 style="margin-bottom:0rem;margin-top:-4rem;text-align: center">10DaysBalletChallenge/h1>', unsafe_allow_html=True)
+st.markdown('<h1 style="margin-bottom:0rem;margin-top:-4rem;text-align: center">10DaysBalletChallenge</h1>', unsafe_allow_html=True)
 st.markdown('<h5 style="color:grey;margin-bottom:0rem;margin-top:-1rem;text-align: center">10 Days Ballet Challenge for all</h5>', unsafe_allow_html=True)
 
 
