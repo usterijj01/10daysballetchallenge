@@ -37,7 +37,7 @@ col1, col2, col3 = st.columns((1,4,1))
 with col2:
     st.image(Image.open('DALLE.png'))
 
-st.markdown('# 10 Days of ballet challenge')
+#st.markdown('# 10 Days of ballet challenge')
 
 days_list = [f'Day {x}' for x in md_files]
 
