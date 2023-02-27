@@ -11,6 +11,7 @@ st.set_page_config(
     page_title = "10DaysBalletChallenge",
     page_icon = ":dancers:",
     initial_sidebar_state="collapsed",
+    layout = "wide",
 )
 
 def enable_indexability():
@@ -132,7 +133,7 @@ for i in days_list:
             md_text = f.read()
             #st.markdown("Here's an example of a dropdown menu using HTML and CSS:")
 
-            st.components.v1.html(md_text , width=350, height=350, scrolling=True)
+            st.components.v1.html(md_text , width=300, height=350, scrolling=True)
 
 
         if os.path.isfile(f'content/figures/{j}.csv') == True:
