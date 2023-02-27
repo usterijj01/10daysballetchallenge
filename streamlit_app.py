@@ -15,6 +15,23 @@ st.set_page_config(
     layout="wide",
 )
 
+
+st.markdown(
+    f"""
+    <style>
+        .reportview-container .main .block-container {{
+            max-width: 300px;
+            padding-top: 1rem;
+            padding-right: 1rem;
+            padding-left: 1rem;
+            padding-bottom: 1rem;
+        }}
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
+
 def enable_indexability():
     st.write("<meta name='robots' content='index,follow'>", unsafe_allow_html=True)
     st.write("<meta name='googlebot' content='index,follow'>", unsafe_allow_html=True)
