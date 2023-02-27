@@ -11,7 +11,6 @@ st.set_page_config(
     page_title = "10DaysBalletChallenge",
     page_icon = ":dancers:",
     initial_sidebar_state="collapsed",
-    layout="wide",
 )
 
 def enable_indexability():
