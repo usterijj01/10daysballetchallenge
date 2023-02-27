@@ -134,7 +134,7 @@ for i in days_list:
             md_text = f.read()
             #st.markdown("Here's an example of a dropdown menu using HTML and CSS:")
 
-            st.components.v1.html(md_text, scrolling=True)
+            st.components.v1.html(md_text , height=350, scrolling=True)
 
 
         if os.path.isfile(f'content/figures/{j}.csv') == True:
