@@ -153,3 +153,15 @@ for i in days_list:
             for i in range(len(df)):
                 st.audio(f'content/audiog/{df.audio[i]}')
                 st.info(f'{df.figure[i]}: {df.caption[i]}')
+
+
+
+
+st.markdown(
+    """<style>
+       #MainMenu {visibility: hidden;}
+       footer {visibility: hidden;}
+       .streamlit-ico {visibility: hidden;}
+       </style>""",
+    unsafe_allow_html=True,
+)                
