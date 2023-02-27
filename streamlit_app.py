@@ -23,6 +23,27 @@ hide_streamlit_style = """
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
+# Hide Streamlit menu and footer
+hide_streamlit_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+
+
+# Hide Streamlit logo
+st.markdown(
+    """<style>
+       #MainMenu {visibility: hidden;}
+       footer {visibility: hidden;}
+       .streamlit-ico {visibility: hidden;}
+       </style>""",
+    unsafe_allow_html=True,
+)
+
+
 
 def enable_indexability():
     st.write("<meta name='robots' content='index,follow'>", unsafe_allow_html=True)
@@ -153,15 +174,3 @@ for i in days_list:
             for i in range(len(df)):
                 st.audio(f'content/audiog/{df.audio[i]}')
                 st.info(f'{df.figure[i]}: {df.caption[i]}')
-
-
-
-
-st.markdown(
-    """<style>
-       #MainMenu {visibility: hidden;}
-       footer {visibility: hidden;}
-       .streamlit-ico {visibility: hidden;}
-       </style>""",
-    unsafe_allow_html=True,
-)                
