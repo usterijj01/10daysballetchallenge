@@ -15,6 +15,15 @@ st.set_page_config(
     menu_items=[],
 )
 
+# Hide Streamlit menu and footer
+hide_streamlit_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+
 
 def enable_indexability():
     st.write("<meta name='robots' content='index,follow'>", unsafe_allow_html=True)
