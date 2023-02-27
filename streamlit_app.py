@@ -15,22 +15,6 @@ st.set_page_config(
 )
 
 
-st.markdown(
-    f"""
-    <style>
-        .reportview-container .main .block-container {{
-            max-width: 300px;
-            padding-top: 1rem;
-            padding-right: 1rem;
-            padding-left: 1rem;
-            padding-bottom: 1rem;
-        }}
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
-
-
 def enable_indexability():
     st.write("<meta name='robots' content='index,follow'>", unsafe_allow_html=True)
     st.write("<meta name='googlebot' content='index,follow'>", unsafe_allow_html=True)
@@ -150,7 +134,7 @@ for i in days_list:
             md_text = f.read()
             #st.markdown("Here's an example of a dropdown menu using HTML and CSS:")
 
-            st.components.v1.html(md_text , width=300, height=350, scrolling=True)
+            st.components.v1.html(md_text, scrolling=True)
 
 
         if os.path.isfile(f'content/figures/{j}.csv') == True:
