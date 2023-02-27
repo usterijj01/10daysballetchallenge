@@ -19,29 +19,10 @@ hide_streamlit_style = """
             <style>
             #MainMenu {visibility: hidden;}
             footer {visibility: hidden;}
+            .streamlit-ico {visibility: hidden;}
             </style>
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
-
-# Hide Streamlit menu and footer
-hide_streamlit_style = """
-            <style>
-            #MainMenu {visibility: hidden;}
-            footer {visibility: hidden;}
-            </style>
-            """
-st.markdown(hide_streamlit_style, unsafe_allow_html=True)
-
-
-# Hide Streamlit logo
-st.markdown(
-    """<style>
-       #MainMenu {visibility: hidden;}
-       footer {visibility: hidden;}
-       .streamlit-ico {visibility: hidden;}
-       </style>""",
-    unsafe_allow_html=True,
-)
 
 
 
