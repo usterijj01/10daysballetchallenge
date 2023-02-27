@@ -12,7 +12,6 @@ st.set_page_config(
     page_icon = ":dancers:",
     initial_sidebar_state="collapsed",
     layout="wide",
-    menu_items=[],
 )
 
 # Hide Streamlit menu and footer
