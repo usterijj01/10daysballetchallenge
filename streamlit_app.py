@@ -26,17 +26,18 @@ st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 
 def enable_indexability():
-    meta_tags = [
-        "<meta name='robots' content='index,follow'>",
-        "<meta name='googlebot' content='index,follow'>",
-        "<meta name='description' content='10 Days Ballet Challenge for all'>",
-        "<meta name='keywords' content='ballet, bootcamp, challenge, fitness, online'>",
-        "<meta name='google-site-verification' content='BcHr4Nnz5iCatIK9aAtvcA-UddGHMmXzxI-1rauBXS4' />",
-        "<link rel='canonical' href='https://10daysballetchallenge.streamlit.app/' />"
-    ]
+    meta_tags = {
+        'robots': 'index,follow',
+        'googlebot': 'index,follow',
+        'description': '10 Days Ballet Challenge for all',
+        'keywords': 'ballet, bootcamp, challenge, fitness, online',
+        'google-site-verification': 'BcHr4Nnz5iCatIK9aAtvcA-UddGHMmXzxI-1rauBXS4'
+    }
 
-    for tag in meta_tags:
-        st.html(tag)
+    for name, content in meta_tags.items():
+        st.write(f"<meta name='{name}' content='{content}'>", unsafe_allow_html=True)
+
+    st.write("<link rel='canonical' href='https://10daysballetchallenge.streamlit.app/' />", unsafe_allow_html=True)
     # Add the rest of your Streamlit app code below
 
 
