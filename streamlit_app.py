@@ -31,6 +31,7 @@ def enable_indexability():
     st.write("<meta name='googlebot' content='index,follow'>", unsafe_allow_html=True)
     st.write("<meta name='description' content='10 Days Ballet Challenge for all'>", unsafe_allow_html=True)
     st.write("<meta name='keywords' content='ballet, bootcamp, challenge, fitness, online'>", unsafe_allow_html=True)
+    st.write("<meta name='google-site-verification' content='BcHr4Nnz5iCatIK9aAtvcA-UddGHMmXzxI-1rauBXS4' />", unsafe_allow_html=True)
     st.write("<link rel='canonical' href='https://10daysballetchallenge.streamlit.app/' />", unsafe_allow_html=True)
 
 
