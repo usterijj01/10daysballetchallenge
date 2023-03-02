@@ -29,6 +29,13 @@ st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 def enable_indexability():
     st.write("<meta name='robots' content='index,follow'>", unsafe_allow_html=True)
     st.write("<meta name='googlebot' content='index,follow'>", unsafe_allow_html=True)
+    st.write("<meta name='description' content='10 Days Ballet Challenge for all'>", unsafe_allow_html=True)
+    st.write("<meta name='keywords' content='ballet, bootcamp, challenge, fitness, online'>", unsafe_allow_html=True)
+    st.write("<link rel='canonical' href='https://10daysballetchallenge.streamlit.app/' />", unsafe_allow_html=True)
+
+
+
+
 
 if __name__ == '__main__':
     enable_indexability()
