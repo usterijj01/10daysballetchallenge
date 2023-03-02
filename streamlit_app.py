@@ -25,26 +25,23 @@ hide_streamlit_style = """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 
-
 def enable_indexability():
-    st.write("<meta name='robots' content='index,follow'>", unsafe_allow_html=True)
-    st.write("<meta name='googlebot' content='index,follow'>", unsafe_allow_html=True)
-    st.write("<meta name='description' content='10 Days Ballet Challenge for all'>", unsafe_allow_html=True)
-    st.write("<meta name='keywords' content='ballet, bootcamp, challenge, fitness, online'>", unsafe_allow_html=True)
-    st.write("<meta name='google-site-verification' content='BcHr4Nnz5iCatIK9aAtvcA-UddGHMmXzxI-1rauBXS4' />", unsafe_allow_html=True)
-    st.write("<link rel='canonical' href='https://10daysballetchallenge.streamlit.app/' />", unsafe_allow_html=True)
+    meta_tags = [
+        "<meta name='robots' content='index,follow'>",
+        "<meta name='googlebot' content='index,follow'>",
+        "<meta name='description' content='10 Days Ballet Challenge for all'>",
+        "<meta name='keywords' content='ballet, bootcamp, challenge, fitness, online'>",
+        "<meta name='google-site-verification' content='BcHr4Nnz5iCatIK9aAtvcA-UddGHMmXzxI-1rauBXS4' />",
+        "<link rel='canonical' href='https://10daysballetchallenge.streamlit.app/' />"
+    ]
 
-
-
-
-
-if __name__ == '__main__':
-    enable_indexability()
+    for tag in meta_tags:
+        st.html(tag)
     # Add the rest of your Streamlit app code below
 
 
 
-st.markdown('<header style="margin-bottom:0rem;margin-top:-4rem;text-align: center">10DaysBalletChallenge</header>', unsafe_allow_html=True)
+st.markdown('<h1 style="margin-bottom:0rem;margin-top:-4rem;text-align: center">10DaysBalletChallenge</h1>', unsafe_allow_html=True)
 st.markdown('<h5 style="color:grey;margin-bottom:0rem;margin-top:-1rem;text-align: center">10 Days Ballet Challenge for all</h5>', unsafe_allow_html=True)
 
 
@@ -72,7 +69,7 @@ if query_params and query_params["challenge"][0] in days_list:
 selected_day = st.selectbox('Start the Challenge 👇', days_list, key="day", on_change=update_params)
 
 with st.expander("About the #10DaysOfBalletChallenge"):
-    st.text('''
+    st.markdown('''
     The **#10DaysOfBalletChallenge** is a Ballet challenge designed to help you improve your skills in classical ballet technique.
 
     Particularly, you'll be able to learn with:
