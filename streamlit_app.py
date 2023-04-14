@@ -29,7 +29,7 @@ def enable_indexability():
     meta_tags = {
         'robots': 'index,follow',
         'googlebot': 'index,follow',
-        'description': '10 Days Ballet Challenge for all',
+        'description': '10 Days Ballet Challenge',
         'keywords': 'ballet, bootcamp, challenge, fitness, online',
         'google-site-verification': 'BcHr4Nnz5iCatIK9aAtvcA-UddGHMmXzxI-1rauBXS4'
     }
@@ -102,33 +102,33 @@ st.sidebar.video(video_bytes)
 
 
 
-st.sidebar.header('Who we are')
+#st.sidebar.header('Who we are')
 
-st.sidebar.image(Image.open('photo1.jpeg'))
-st.sidebar.markdown('Ivan Ustyuzhaninov')
-st.sidebar.markdown('Choreographer/Developer')
-st.sidebar.markdown('''
-Professional dancer and choreography professor with over 10 years of experience who graduated from the prestigious Moscow Bolshoi Ballet Academy. They have performed on various stages around the world and worked with different choreographers and dance companies. As a professor of choreography, they likely emphasize technical precision and discipline in dance, informed by their training and experiences as a performer. The biography suggests that they are a highly skilled and passionate educator who enjoys sharing their knowledge and love of dance with others.
-''')
+#st.sidebar.image(Image.open('photo1.jpeg'))
+#st.sidebar.markdown('Ivan Ustyuzhaninov')
+#st.sidebar.markdown('Choreographer/Developer')
+#st.sidebar.markdown('''
+#Professional dancer and choreography professor with over 10 years of experience who graduated from the prestigious Moscow Bolshoi Ballet Academy. They have performed on various stages around the world and worked with different choreographers and dance companies. As a professor of choreography, they likely emphasize technical precision and discipline in dance, informed by their training and experiences as a performer. The biography suggests that they are a highly skilled and passionate educator #who enjoys sharing their knowledge and love of dance with others.
+#''')
 
 
-st.sidebar.image(Image.open('photo2.jpeg'))
-st.sidebar.markdown('Aleksandr Filimontsev')
-st.sidebar.markdown('Model/Artist')
-st.sidebar.markdown('''
-The individual is a skilled and accomplished dancer with a deep understanding of classical ballet technique, gained from training at the Moscow Bolshoi Ballet Academy. They have experience in performing for children and competing in ballet competitions.
-''')
+#st.sidebar.image(Image.open('photo2.jpeg'))
+#st.sidebar.markdown('Aleksandr Filimontsev')
+#st.sidebar.markdown('Model/Artist')
+#st.sidebar.markdown('''
+#The individual is a skilled and accomplished dancer with a deep understanding of classical ballet technique, gained from training at the Moscow Bolshoi Ballet Academy. They have experience in performing for children and competing in ballet competitions.
+#''')
 
 
 # Define the HTML code for the Buy Me a Coffee button
-buy_me_coffee = """
-<a href="https://www.buymeacoffee.com/ustyuzhaniX" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px; width: 150px;" >
-</a>
-"""
+#buy_me_coffee = """
+#<a href="https://www.buymeacoffee.com/ustyuzhaniX" target="_blank">
+#    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px; width: 150px;" >
+#</a>
+#"""
 
 # Display the Buy Me a Coffee button using the HTML component
-st.sidebar.markdown(buy_me_coffee, unsafe_allow_html=True)
+#st.sidebar.markdown(buy_me_coffee, unsafe_allow_html=True)
 
 
 
